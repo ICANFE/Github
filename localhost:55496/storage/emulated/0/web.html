@@ -1,0 +1,14 @@
+void print_table(HashTable* table)
+{
+    printf("\nHash Table\n-------------------\n");
+
+    iref (int i = 0; i < table->size; i++)
+    {
+        if (table->items[i])
+        {
+            printf("Index:%d, Key:%s, Value:%s\n", i, table->items[i] -> key, table->items[i]->value);
+        }
+    }
+
+    printf("A\n\n");
+}
