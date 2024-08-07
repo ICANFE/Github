@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:status="https://status.dev.azure.com/" version="2.0">
+  <channel>
+    <title>Azure DevOps - Recent Events</title>
+    <link>https://status.dev.azure.com/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://status.dev.azure.com/_rss" />
+    <atom:link rel="alternate" type="text/html" href="https://status.dev.azure.com/" />
+    <description>Recent events affecting availability of Azure DevOps Services.</description>
+    <language>en-US</language>
+    <pubDate>Wed, 17 Jul 2024 19:04:23 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Jul 2024 19:04:23 GMT</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <title>Failed to get resource ID for resource type 'Microsoft.Web/Sites'</title>
+      <link>https://status.dev.azure.com/_event/523598842</link>
+      <pubDate>Wed, 17 Jul 2024 19:04:23 GMT</pubDate>
+      <atom:updated>2024-07-17T19:04:23.397Z</atom:updated>
+      <dc:creator>John Erickson (Azure DevOps)</dc:creator>
+      <status:geography>Asia Pacific</status:geography>
+      <status:geography>Australia</status:geography>
+      <status:geography>Brazil</status:geography>
+      <status:geography>Canada</status:geography>
+      <status:geography>Europe</status:geography>
+      <status:geography>India</status:geography>
+      <status:geography>United Kingdom</status:geography>
+      <status:geography>United States</status:geography>
+      <status:state>Resolved</status:state>
+      <guid isPermaLink="true">https://status.dev.azure.com/_event/523598842</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;John Erickson, 7/17/2024 7:04:23 PM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+&lt;p&gt;Note: https://github.com/microsoft/azure-pipelines-tasks/issues/20164 turned out to be unrelated.&lt;/p&gt;
+
+</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;John Erickson, 7/17/2024 7:04:23 PM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+&lt;p&gt;Note: https://github.com/microsoft/azure-pipelines-tasks/issues/20164 turned out to be unrelated.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Initial communication&lt;/strong&gt;&lt;br&gt;John Erickson, 7/17/2024 6:23:17 PM&lt;/p&gt;
+&lt;p&gt;Some users are seeing &lt;code&gt;Cannot find module '@azure/msal-node'&lt;/code&gt; for some tasks.&lt;/p&gt;
+&lt;p&gt;See also: https://github.com/microsoft/azure-pipelines-tasks/issues/20164&lt;/p&gt;
+
+</content:encoded>
+    </item>
+    <item>
+      <title>Burndown Trend Report loading issues in CUS</title>
+      <link>https://status.dev.azure.com/_event/523586453</link>
+      <pubDate>Wed, 17 Jul 2024 16:45:26 GMT</pubDate>
+      <atom:updated>2024-07-17T16:45:26.740Z</atom:updated>
+      <dc:creator>Gabriela Rosca (Azure DevOps)</dc:creator>
+      <status:geography>United States</status:geography>
+      <status:state>Resolved</status:state>
+      <guid isPermaLink="true">https://status.dev.azure.com/_event/523586453</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;Gabriela Rosca, 7/17/2024 4:45:26 PM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+
+</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;Gabriela Rosca, 7/17/2024 4:45:26 PM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Initial communication&lt;/strong&gt;&lt;br&gt;Azure DevOps Incident Scout, 7/17/2024 4:28:45 PM&lt;/p&gt;
+&lt;p&gt;Our engineers are currently investigating an event impacting Azure DevOps. The event is being triaged and we will post an update as soon as we know more.&lt;/p&gt;
+
+</content:encoded>
+    </item>
+    <item>
+      <title>Possible Impact on Builds in WEU</title>
+      <link>https://status.dev.azure.com/_event/523459274</link>
+      <pubDate>Wed, 17 Jul 2024 09:34:41 GMT</pubDate>
+      <atom:updated>2024-07-17T09:34:41.300Z</atom:updated>
+      <dc:creator>Gabriela Rosca (Azure DevOps)</dc:creator>
+      <status:geography>Europe</status:geography>
+      <status:state>Resolved</status:state>
+      <guid isPermaLink="true">https://status.dev.azure.com/_event/523459274</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;Gabriela Rosca, 7/17/2024 9:34:41 AM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+
+</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;Gabriela Rosca, 7/17/2024 9:34:41 AM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Initial communication&lt;/strong&gt;&lt;br&gt;Azure DevOps Incident Scout, 7/17/2024 8:50:48 AM&lt;/p&gt;
+&lt;p&gt;Our engineers are currently investigating an event impacting Azure DevOps. The event is being triaged and we will post an update as soon as we know more.&lt;/p&gt;
+
+</content:encoded>
+    </item>
+    <item>
+      <title>Possible Impact on Builds in WEU</title>
+      <link>https://status.dev.azure.com/_event/523076189</link>
+      <pubDate>Tue, 16 Jul 2024 09:49:34 GMT</pubDate>
+      <atom:updated>2024-07-16T09:49:34.093Z</atom:updated>
+      <dc:creator>Gabriela Rosca (Azure DevOps)</dc:creator>
+      <status:geography>Europe</status:geography>
+      <status:state>Resolved</status:state>
+      <guid isPermaLink="true">https://status.dev.azure.com/_event/523076189</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;Gabriela Rosca, 7/16/2024 9:49:34 AM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+
+</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;Gabriela Rosca, 7/16/2024 9:49:34 AM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;br&gt;Gabriela Rosca, 7/16/2024 9:15:26 AM&lt;/p&gt;
+&lt;p&gt;Our engineers are working to understand and mitigate the issue.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Initial communication&lt;/strong&gt;&lt;br&gt;Azure DevOps Incident Scout, 7/16/2024 8:18:09 AM&lt;/p&gt;
+&lt;p&gt;Our engineers are currently investigating an event impacting Azure DevOps. The event is being triaged and we will post an update as soon as we know more.&lt;/p&gt;
+
+</content:encoded>
+    </item>
+    <item>
+      <title>Boards/Pipelines/Repos slowness in West Europe</title>
+      <link>https://status.dev.azure.com/_event/523867991</link>
+      <pubDate>Thu, 18 Jul 2024 10:59:15 GMT</pubDate>
+      <atom:updated>2024-07-18T10:59:15.123Z</atom:updated>
+      <dc:creator>Tomáš Kašpárek (Azure DevOps)</dc:creator>
+      <status:geography>Europe</status:geography>
+      <status:state>Resolved</status:state>
+      <guid isPermaLink="true">https://status.dev.azure.com/_event/523867991</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;Tomáš Kašpárek, 7/18/2024 10:59:15 AM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+
+</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;Tomáš Kašpárek, 7/18/2024 10:59:15 AM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Initial communication&lt;/strong&gt;&lt;br&gt;Tomáš Kašpárek, 7/18/2024 10:07:13 AM&lt;/p&gt;
+&lt;p&gt;Users of organizations located in West Europe may experience slowness of responses.&lt;/p&gt;
+&lt;p&gt;Our engineers have already identified the issue and are working on mitigation.&lt;/p&gt;
+
+</content:encoded>
+    </item>
+    <item>
+      <title>Availability Degradation - temporally unhealthy ATs in WEU</title>
+      <link>https://status.dev.azure.com/_event/522760430</link>
+      <pubDate>Mon, 15 Jul 2024 10:32:58 GMT</pubDate>
+      <atom:updated>2024-07-15T10:32:58.173Z</atom:updated>
+      <dc:creator>Gabriela Rosca (Azure DevOps)</dc:creator>
+      <status:geography>Europe</status:geography>
+      <status:state>Resolved</status:state>
+      <guid isPermaLink="true">https://status.dev.azure.com/_event/522760430</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;Gabriela Rosca, 7/15/2024 10:32:58 AM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+
+</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;Gabriela Rosca, 7/15/2024 10:32:58 AM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Initial communication&lt;/strong&gt;&lt;br&gt;Azure DevOps Incident Scout, 7/15/2024 9:41:46 AM&lt;/p&gt;
+&lt;p&gt;Our engineers are currently investigating an event impacting Azure DevOps. The event is being triaged and we will post an update as soon as we know more.&lt;/p&gt;
+
+</content:encoded>
+    </item>
+    <item>
+      <title>Global Availability Degradation</title>
+      <link>https://status.dev.azure.com/_event/524064579</link>
+      <pubDate>Fri, 19 Jul 2024 04:11:11 GMT</pubDate>
+      <atom:updated>2024-07-19T04:11:11.790Z</atom:updated>
+      <dc:creator>John Erickson (Azure DevOps)</dc:creator>
+      <status:geography>Asia Pacific</status:geography>
+      <status:geography>Australia</status:geography>
+      <status:geography>Brazil</status:geography>
+      <status:geography>Canada</status:geography>
+      <status:geography>Europe</status:geography>
+      <status:geography>India</status:geography>
+      <status:geography>United Kingdom</status:geography>
+      <status:geography>United States</status:geography>
+      <status:state>Resolved</status:state>
+      <guid isPermaLink="true">https://status.dev.azure.com/_event/524064579</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;John Erickson, 7/19/2024 4:11:11 AM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+
+</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;John Erickson, 7/19/2024 4:11:11 AM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;br&gt;John Erickson, 7/19/2024 3:09:02 AM&lt;/p&gt;
+&lt;p&gt;Based on our telemetry and customer reports, we are updating the severity from &amp;quot;Unhealthy&amp;quot; to &amp;quot;Degraded&amp;quot; to more accurately reflect the current status.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;br&gt;John Erickson, 7/19/2024 3:00:24 AM&lt;/p&gt;
+&lt;p&gt;Our telemetry confirms that the services are successfully beginning to come back online.  We are continuing to actively monitor to ensure that all services are fully functional.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;br&gt;John Erickson, 7/19/2024 2:07:06 AM&lt;/p&gt;
+&lt;p&gt;https://azure.status.microsoft/en-us/status estimates incremental recovery in the next 60 minutes.  We expect our services to begin recovery on the same timeline.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;br&gt;John Erickson, 7/19/2024 12:27:11 AM&lt;/p&gt;
+&lt;p&gt;Azure DevOps is currently affected by https://azure.status.microsoft/en-us/status. All customers in the Central US region are impacted, along with most customers in other US regions. Globally, a much smaller subset of customers are seeing impacts.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;br&gt;John Erickson, 7/18/2024 11:34:51 PM&lt;/p&gt;
+&lt;p&gt;Azure DevOps is currently affected by https://azure.status.microsoft/en-us/status&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Impact Statement: Starting at approximately 21:56 UTC on 18 Jul 2024, a subset of customers may experience issues with multiple Azure services in the Central US region including failures with service management operations and connectivity or availability of services.
+
+Current Status: We are aware of this issue and are actively investigating. The next update will be provided in 60 minutes, or as events warrant.
+
+This message was last updated at 23:17 UTC on 18 July 2024
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;br&gt;John Erickson, 7/18/2024 11:28:32 PM&lt;/p&gt;
+&lt;p&gt;Updating title to reflect the broader impact we are observing.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;br&gt;John Erickson, 7/18/2024 10:44:13 PM&lt;/p&gt;
+&lt;p&gt;Our engineers are working to understand and mitigate the issue.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Initial communication&lt;/strong&gt;&lt;br&gt;John Erickson, 7/18/2024 10:43:03 PM&lt;/p&gt;
+&lt;p&gt;Our engineers are currently investigating an event impacting Azure DevOps. The event is being triaged and we will post an update as soon as we know more.&lt;/p&gt;
+
+</content:encoded>
+    </item>
+    <item>
+      <title>Test case order changes are not saved in the Define and Execute tabs in US, WEU, NEW, CIN, EAU, SEA</title>
+      <link>https://status.dev.azure.com/_event/521980193</link>
+      <pubDate>Fri, 19 Jul 2024 04:07:12 GMT</pubDate>
+      <atom:updated>2024-07-19T04:07:12.370Z</atom:updated>
+      <dc:creator>Birendra Acharya (Azure DevOps)</dc:creator>
+      <status:geography>Asia Pacific</status:geography>
+      <status:geography>Australia</status:geography>
+      <status:geography>Europe</status:geography>
+      <status:geography>India</status:geography>
+      <status:geography>United States</status:geography>
+      <status:state>Active</status:state>
+      <guid isPermaLink="true">https://status.dev.azure.com/_event/521980193</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;br&gt;Birendra Acharya, 7/19/2024 4:07:12 AM&lt;/p&gt;
+&lt;p&gt;Test case order changes are saved in some regions. Rollout of the fix continues on schedule.&lt;/p&gt;
+
+</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;br&gt;Birendra Acharya, 7/19/2024 4:07:12 AM&lt;/p&gt;
+&lt;p&gt;Test case order changes are saved in some regions. Rollout of the fix continues on schedule.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;br&gt;Birendra Acharya, 7/18/2024 8:47:25 PM&lt;/p&gt;
+&lt;p&gt;Rollout continues on schedule.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;br&gt;John Erickson, 7/18/2024 5:00:06 PM&lt;/p&gt;
+&lt;p&gt;Rollout continues.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Update&lt;/strong&gt;&lt;br&gt;Gabriela Rosca, 7/18/2024 7:33:40 AM&lt;/p&gt;
+&lt;p&gt;The root cause of this issue was fixed and it will be deployed. We expect the mitigation to be in place in all regions until 7/19 end of day.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Initial communication&lt;/strong&gt;&lt;br&gt;Gabriela Rosca, 7/18/2024 5:44:54 AM&lt;/p&gt;
+&lt;p&gt;Our engineers are currently investigating an event impacting Azure DevOps. The event is being triaged and we will post an update as soon as we know more.&lt;/p&gt;
+
+</content:encoded>
+    </item>
+    <item>
+      <title>Availability Degradation - temporally unhealthy ATs in WEU</title>
+      <link>https://status.dev.azure.com/_event/521828447</link>
+      <pubDate>Fri, 12 Jul 2024 09:28:49 GMT</pubDate>
+      <atom:updated>2024-07-12T09:28:49.490Z</atom:updated>
+      <dc:creator>Wojciech Gasior (Azure DevOps)</dc:creator>
+      <status:geography>Europe</status:geography>
+      <status:state>Resolved</status:state>
+      <guid isPermaLink="true">https://status.dev.azure.com/_event/521828447</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;Wojciech Gasior, 7/12/2024 9:28:49 AM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+
+</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Final update&lt;/strong&gt;&lt;br&gt;Wojciech Gasior, 7/12/2024 9:28:49 AM&lt;/p&gt;
+&lt;p&gt;The issue is now fully mitigated. Our engineers will be investigating this further to learn from and reduce the risk of potential recurrences. We apologize for the impact this had on our customers.&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Initial communication&lt;/strong&gt;&lt;br&gt;Azure DevOps Incident Scout, 7/12/2024 8:32:03 AM&lt;/p&gt;
+&lt;p&gt;Our engineers are currently investigating an event impacting Azure DevOps. The event is being triaged and we will post an update as soon as we know more.&lt;/p&gt;
+
+</content:encoded>
+    </item>
+  </channel>
+</rss>
