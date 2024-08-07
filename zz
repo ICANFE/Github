@@ -1,0 +1,39 @@
+        border: 1px solid black;
+        background-color: red;
+        transform: rotateX(45deg);
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <h1>Projects::</h1>
+
+    <div id="div1">DIV1
+      <div id="div2">ABCDEFGHIJKLMNOPQRSTRUVWXYZ.0123456789.</div>
+    </div>
+
+  </body>
+
+  </html>
+  <DOCTYPE html>
+    <html>
+
+    <head>
+      <style>
+        #myDIV {
+          height: 100px;
+          background-color: coral;
+          color: white;
+          animation: mymove 5s infinite;
+        }
+
+        @keyframes mymove {
+          50% {
+            height: 500px;
+          }
+        }
+      </style>
+    </head>
+
+    <body>
